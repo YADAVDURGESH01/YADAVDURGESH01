@@ -1,21 +1,25 @@
-<h1 align="center">Hi 👋, I'm Durgesh</h1>
-<h3 align="center">A passionate Web developer from India</h3>
-<img align="right" alt="coding" width="400" src"https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=yadavdurgesh01&label=Profile%20views&color=0e75b6&style=flat" alt="yadavdurgesh01" /> </p>
+# Modern Professional Portfolio
 
-- 👨‍💻 All of my projects are available at [https://yadavdurgesh01.github.io/My-Portfolio/](https://yadavdurgesh01.github.io/My-Portfolio/)
+## About Me
+I am a passionate developer with a keen interest in building scalable web applications. With a background in both frontend and backend technologies, I bring a holistic approach to software development.
 
-- ⚡ Fun fact **I am Funny 🤪**
+## Skills
+- **Languages:** JavaScript, Python, Java
+- **Frameworks:** React, Node.js, Django
+- **Databases:** MySQL, MongoDB
+- **Others:** Git, Docker, RESTful APIs
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/yadavdurgesh01/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/yadavdurgesh01/" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/https://www.hackerrank.com/profile/durgeshyadav8178" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/profile/durgeshyadav8178" height="30" width="40" /></a>
-</p>
+## Projects
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+### Project 1: Portfolio Website
+- **Description:** A personal portfolio website to showcase my work.
+- **Technologies Used:** HTML, CSS, JavaScript
+- **Link:** [Portfolio Website](https://github.com/YADAVDURGESH01/my-portfolio)
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=yadavdurgesh01&show_icons=true&locale=en&layout=compact" alt="yadavdurgesh01" /></p>
+### Project 2: E-commerce Application
+- **Description:** A full-stack e-commerce application for buying and selling products.
+- **Technologies Used:** React, Node.js, MongoDB
+- **Link:** [E-commerce App](https://github.com/YADAVDURGESH01/e-commerce-app)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yadavdurgesh01&" alt="yadavdurgesh01" /></p>
+## Contact
+Feel free to reach out to me at [your_email@example.com](mailto:your_email@example.com) for any queries or collaborations!
